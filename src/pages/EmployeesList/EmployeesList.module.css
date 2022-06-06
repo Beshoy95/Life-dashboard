@@ -1,0 +1,12 @@
+.employeesList{
+    flex: 4;
+}
+.listItem{
+    list-style: none;
+    display: flex;
+    position: fixed;
+}
+.ulItem{
+    margin: 5px;
+ 
+}
